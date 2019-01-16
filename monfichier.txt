@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-commit4
-=======
-commit2
->>>>>>> parent of 6e4a57a... commit3
+modif production
 
